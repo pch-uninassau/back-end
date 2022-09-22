@@ -10,7 +10,7 @@
 | **Data** | **Modificações** | **Author** |
 | --- | --- | --- | 
 | **21/09/2022** | **Foi criado o README.md** | **Henry** |
-| **Exemplo 2** | **Exemplo 2** | **Exemplo 2** |
+| **21/09/2022** | **Início da checklist** | **Henry, Davy** |
 
 ## 🛑 • Avisos
 
