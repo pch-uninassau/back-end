@@ -1,6 +1,6 @@
 ## 🧭 • BackEnd - Projeto
 
-➔ Área responsável para colaboração e gerenciamento do back-end pelos respectivos subgrupos
+➔ Área responsável para colaboração e gerenciamento do back-end pelos respectivos subgrupos.
 
 
 ## 📟 • Avanço - Opcional
