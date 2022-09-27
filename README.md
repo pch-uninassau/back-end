@@ -11,6 +11,7 @@
 | --- | --- | --- | 
 | **21/09/2022** | **Foi criado o README.md** | **Henry** |
 | **21/09/2022** | **Início da checklist** | **Henry, Davy** |
+| **27/09/2022** | **Início do br-modelo** | **Henry, Davy** |
 
 ## 🛑 • Avisos
 
